@@ -4,3 +4,4 @@ echo "how are you"
 echo "I am fine"
 echo fetch
 echo rebase
+echo pull
