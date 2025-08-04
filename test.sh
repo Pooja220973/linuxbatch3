@@ -5,3 +5,4 @@ echo "I am fine"
 echo fetch
 echo rebase
 echo pull
+echo pullrebase
